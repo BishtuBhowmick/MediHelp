@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f6f8;
+  color: #333;
+}
+
+header {
+  background: #49ceda;
+  color: black;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: black;
+  text-decoration: none;
+}
+
+main {
+  background-image: url('img.png');
+  background-position: center;
+  background-size:cover;
+  padding:14rem;;
+}
+
+footer {
+  background: #53c6d0;
+  color: black;
+  text-align: center;
+  padding: 1rem;
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+form {
+  background: rgb(139, 220, 240);
+  padding: 1rem;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #e3dfdf;
+}
